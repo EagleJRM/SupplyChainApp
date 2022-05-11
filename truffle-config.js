@@ -1,5 +1,5 @@
 const HDWalletProvider = require("@truffle/hdwallet-provider");
-var mnemonicPhrase = "genre chest delay august panther mansion protect guilt priority dawn giraffe toddler";
+var mnemonicPhrase = "enter mnemonicPhrase here";
 
 
 module.exports = {
